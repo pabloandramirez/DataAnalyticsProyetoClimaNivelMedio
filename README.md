@@ -8,19 +8,19 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 y pruebas_
 
 ```
-git clone https://github.com/pabloandramirez/DataAnalyticsProyetoClima
+git clone https://github.com/pabloandramirez/DataAnalyticsProyetoClimaNivelMedio
 ```
 
 _Activar el entorno virtual_
 
 ```
-C:\Users\TuUsuario\TuCarpeta\DataAnalyticsProyectoClima>cd entorno_virtual_data
+C:\Users\TuUsuario\TuCarpeta\DataAnalyticsProyectoClimaNivelMedio>cd entorno_virtual_data
 ```
 ```
-C:\Users\TuUsuario\TuCarpeta\DataAnalyticsProyectoClima\entorno_virtual_data>cd Scripts 
+C:\Users\TuUsuario\TuCarpeta\DataAnalyticsProyectoClimaNivelMedio\entorno_virtual_data>cd Scripts 
 ```
 ```
-C:\Users\TuUsuario\TuCarpeta\DataAnalyticsProyectoClima\entorno_virtual_data\Scripts>activate 
+C:\Users\TuUsuario\TuCarpeta\DataAnalyticsProyectoClimaNivelMedio\entorno_virtual_data\Scripts>activate 
 ```
 
 _Instalar las dependendencias del proyecto_
@@ -29,7 +29,7 @@ _Instalar las dependendencias del proyecto_
 pip install -r requirements.txt
 ```
 
-_Registrarse con el correo electrónico en la pagina del clima_
+_Registrarse con algun correo electrónico propio en la pagina de la API del clima_
 
 ```
 https://openweathermap.org/api
