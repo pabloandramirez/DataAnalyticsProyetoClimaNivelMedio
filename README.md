@@ -1,6 +1,6 @@
 # Proyecto Final desarrollado por el Grupo 10 del Curso de Data Analytics del Informatorio 2023
 
-_Proyecto nivel inicial de la extracción, transformación y carga de datos_
+_Proyecto nivel medio de la extracción, transformación y carga de datos, con persistencia a una base de datos_
 
 ## Pre-requisitos 🚀
 
