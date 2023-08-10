@@ -52,7 +52,7 @@ def obtener_datos_climaticos_ciudades(list_of_cities):
 
 
 if __name__ == '__main__':
-    #obtener_datos_climaticos_ciudades(cities)
+    obtener_datos_climaticos_ciudades(cities)
 
     # Leer las credenciales de conexión a la base de datos desde el archivo config.py
     config = Config()
